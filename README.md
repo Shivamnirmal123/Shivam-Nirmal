@@ -36,7 +36,7 @@ I'm also familiar with using **GitHub** to manage and share my code.
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JDBC-%23007396.svg?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Servlets-%23007396.svg?style=flat-square"/>
+  
   <img src="https://img.shields.io/badge/SQL-%23007396.svg?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>
