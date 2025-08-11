@@ -59,8 +59,8 @@ I'm also familiar with using **GitHub** to manage and share my code.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ershamshad12&show_icons=true&theme=transparent&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ershamshad12&layout=compact&theme=transparent&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivamnirmal123&show_icons=true&theme=transparent&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamnirmal123&layout=compact&theme=transparent&hide_border=true" width="45%" />
 </p>
 
 <br/>
